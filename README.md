@@ -20,6 +20,7 @@
 + 🤖 Building AI-powered applications
 + 🚀 Working on fitness & e-commerce apps
 - 🌐 Web development fan ❌ (still surviving it 💀)
+- <br/>
 📫 Contact
 📧 barkaoui885@gmail.com
 <p align="center"> <a href="https://www.linkedin.com/in/oussema-barkaoui-016593260"> <img src="https://img.shields.io/badge/LinkedIn-Oussema%20Barkaoui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
