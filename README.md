@@ -28,7 +28,7 @@
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=oussemabarkaoui&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
 📊 GitHub Stats (Totally Legit 😎)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oussemabarkaoui&show_icons=true&theme=tokyonight&border_radius=10" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussemabarkaoui&theme=tokyonight&border_radius=10" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oussemabarkaoui" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussemabarkaoui&theme=tokyonight&border_radius=10" height="160"/> </p>
 🧠 Most Used Languages
 <p align="center"> <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=oussemabarkaoui&layout=compact&theme=tokyonight&border_radius=10](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oussemabarkaoui)"/> </p>
 🐍 Contribution Snake
