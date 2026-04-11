@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-```diff
+
 + 📱 Mobile Developer (Flutter / Kotlin / Swift)
 + ⚙️ Backend with NestJS & Spring Boot
 + 🤖 Building AI-powered applications
