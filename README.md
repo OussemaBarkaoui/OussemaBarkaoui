@@ -25,16 +25,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oussemabarkaoui&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -86,21 +76,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=oussemabarkaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=oussemabarkaoui&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemabarkaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=oussemabarkaoui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=oussemabarkaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/oussemabarkaoui/oussemabarkaoui/output/github-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemabarkaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
