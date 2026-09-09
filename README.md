@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 I'm currently a **Student**
+- 🎓 I'm a Software Engineer 
 - 🌱 Always learning and building cool things
 - 📫 Reach me at **barkaoui885@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code ☕→💻**
