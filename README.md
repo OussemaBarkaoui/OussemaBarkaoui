@@ -11,7 +11,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkaoui885@gmail.com)
 
 </div>
+<div align="center">
 
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/OussemaBarkaoui">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
+
+*If you enjoy my projects and want to support my work, consider buying me a coffee! ☕🚀*
+
+</div>
 ---
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
